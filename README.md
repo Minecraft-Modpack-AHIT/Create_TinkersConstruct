@@ -3,6 +3,7 @@
 [tce_downGit_link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Minecraft-Modpack-AHIT/Create_TinkersConstruct/tree/main/mods)
 
 ## Mods:
+* Applied Energistics
 * Create
 * Tinker's Construct
 * Ambient Sounds
