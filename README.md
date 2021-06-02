@@ -18,3 +18,4 @@
 * Terraforged
 * Travelers Backpack
 * Mowzie's Mobs
+* Demon Slayer 
