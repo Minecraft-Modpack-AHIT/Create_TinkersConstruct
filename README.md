@@ -19,3 +19,7 @@
 * Travelers Backpack
 * Mowzie's Mobs
 * Demon Slayer 
+* Security Craft
+* Quark
+* Corpse Mod
+* Dungeons Plus
