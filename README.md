@@ -24,3 +24,4 @@
 * Dungeons Plus
 * Thermal Expansion
 * XNet
+* Journy Map
