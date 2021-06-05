@@ -22,3 +22,6 @@
 * Quark
 * Corpse Mod
 * Dungeons Plus
+* Thermal Expansion
+* XNet
+* 
